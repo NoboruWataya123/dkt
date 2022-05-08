@@ -3,7 +3,7 @@ import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Link from '../components/Link/Link';
-import Navbar from '../components/Navbar/NavBar';
+import Navbar from '../components/Navbar/Navbar';
 import { Grid } from '@mui/material';
 import ActionAreaCard from '../components/Card/ActionAreaCard';
 
